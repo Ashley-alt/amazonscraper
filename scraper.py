@@ -45,6 +45,4 @@ print('Hey, email has been sent')
 
 server.quit()
 
-
-
-print(converted_price)
+check_price()
