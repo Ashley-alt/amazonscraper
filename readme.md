@@ -1,0 +1,1 @@
+# App the scrapes amazon to track when a specific product goes under a certain price
