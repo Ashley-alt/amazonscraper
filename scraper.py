@@ -45,4 +45,6 @@ print('Hey, email has been sent')
 
 server.quit()
 
-check_price()
+while(True):
+    check_price()
+    time.sleep(86400)
